@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: #1e272e;
+}
+.paul{
+border-width: 2px;
+border-style: solid;
+border-color: black;
+background-color:#808e9b;
+width: 350px;
+padding-top: 30px;
+padding-left: 30px;
+padding-bottom: 30px;
+border-radius: 30px;
+align-items: center;
+margin: 0 auto;
+}
+.hello{
+    border-radius: 10px;
+}
+.word{
+    border-radius: 10px;
+}
+.pik{
+    border-radius: 10px;
+}
+.name{
+    border-radius: 10px;
+}
+.love{
+    border-radius: 10px;
+}
+.ratul{
+    border-radius: 10px;
+    color: #ff3f34;
+}
+span{
+    color:#3c40c6;
+}
+.lon{
+    color:#3c40c6;
+}
+.jony{
+    color:#3c40c6;
+}
+.top{
+    color:#3c40c6;  
+}
+.putul{
+    color: #3c40c6;
+}
+.took{
+    color: #fffa65;
+}
+
+
